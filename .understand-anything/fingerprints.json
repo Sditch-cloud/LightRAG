@@ -1,28 +1,8 @@
 {
   "version": "1.0.0",
   "gitCommitHash": "1f31c30ea11122837872606be5f79079c570cc4a",
-  "generatedAt": "2026-05-28T07:11:01.203Z",
+  "generatedAt": "2026-05-28T10:07:40.253Z",
   "files": {
-    ".clinerules/01-basic.md": {
-      "filePath": ".clinerules/01-basic.md",
-      "contentHash": "2718b26cc4792cc3277b0e118a11bb4151533f57619763fe341e331322207458",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 258,
-      "hasStructuralAnalysis": true
-    },
-    ".dockerignore": {
-      "filePath": ".dockerignore",
-      "contentHash": "82c65680e5c828d0c029723ef5e0cbd29ff12cf4d6e7e3e9153bdbcb52660115",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 70,
-      "hasStructuralAnalysis": false
-    },
     ".gitattributes": {
       "filePath": ".gitattributes",
       "contentHash": "0ef08d90ce1b04f9a1edc985abcf71f2f7ced4aa10c7adfe15eb50b7a58efb19",
@@ -32,16 +12,6 @@
       "exports": [],
       "totalLines": 3,
       "hasStructuralAnalysis": false
-    },
-    ".github/CONTRIBUTING.md": {
-      "filePath": ".github/CONTRIBUTING.md",
-      "contentHash": "930be5727dcd59d7159bd09fe8fe02d3c2f5aaaef03a3de81f9b5aeb45101295",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 164,
-      "hasStructuralAnalysis": true
     },
     ".github/dependabot.yml": {
       "filePath": ".github/dependabot.yml",
@@ -93,96 +63,6 @@
       "totalLines": 27,
       "hasStructuralAnalysis": true
     },
-    ".github/pull_request_template.md": {
-      "filePath": ".github/pull_request_template.md",
-      "contentHash": "5aaa8b6bbf81f1a8aafa2d24648ab1947f64322e9bdc68ccd650d04ba22041c2",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 33,
-      "hasStructuralAnalysis": true
-    },
-    ".github/workflows/copilot-setup-steps.yml": {
-      "filePath": ".github/workflows/copilot-setup-steps.yml",
-      "contentHash": "5d7a202b970dd70b94ca40e2fe0dc27e3728eac92b27a108fc3518de6f107b72",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 59,
-      "hasStructuralAnalysis": true
-    },
-    ".github/workflows/docker-build-lite.yml": {
-      "filePath": ".github/workflows/docker-build-lite.yml",
-      "contentHash": "b808a67f6d70788942da3e913083112bd93cf77166d303cf4c35199784478df7",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 114,
-      "hasStructuralAnalysis": true
-    },
-    ".github/workflows/docker-build-manual.yml": {
-      "filePath": ".github/workflows/docker-build-manual.yml",
-      "contentHash": "e7dcf14b20c47d520a5f25bdf2d91fc70588aa41f4f28273957aa08ce86b630a",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 110,
-      "hasStructuralAnalysis": true
-    },
-    ".github/workflows/docker-publish.yml": {
-      "filePath": ".github/workflows/docker-publish.yml",
-      "contentHash": "bbd89b3bbc97735661b9406fef566e4be3504d3fe3455f3b7c6dafa064b4da79",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 121,
-      "hasStructuralAnalysis": true
-    },
-    ".github/workflows/linting.yaml": {
-      "filePath": ".github/workflows/linting.yaml",
-      "contentHash": "9a5a504633066e194939c85898e552bb29fcb2833ee54fcb347a0a3cabf2d689",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 135,
-      "hasStructuralAnalysis": true
-    },
-    ".github/workflows/pypi-publish.yml": {
-      "filePath": ".github/workflows/pypi-publish.yml",
-      "contentHash": "bcb9eeb089cfa72b23c0ca3c1c133452f2c09d988c90db63032d572f7aa4b931",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 102,
-      "hasStructuralAnalysis": true
-    },
-    ".github/workflows/stale.yaml": {
-      "filePath": ".github/workflows/stale.yaml",
-      "contentHash": "ff62a0b5569bc44a899f2bd7db4c81a06fc565bd948f7ae2f56ad0973f5710fd",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 28,
-      "hasStructuralAnalysis": true
-    },
-    ".github/workflows/tests.yml": {
-      "filePath": ".github/workflows/tests.yml",
-      "contentHash": "e1c492054d7305184f3d3a20dcfafc4b7f8c4fb305e0874617a91d651510e71e",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 62,
-      "hasStructuralAnalysis": true
-    },
     ".pre-commit-config.yaml": {
       "filePath": ".pre-commit-config.yaml",
       "contentHash": "480bd96dfd44440b6803ce066a8a3a2909286109ca8d8bb6e6c97b2f87d35165",
@@ -202,6 +82,36 @@
       "exports": [],
       "totalLines": 67,
       "hasStructuralAnalysis": false
+    },
+    ".understand-anything/config.json": {
+      "filePath": ".understand-anything/config.json",
+      "contentHash": "7c5c3eb7846ad56ef4b5cf9ec1fdb2e4cf656b7bea9d48a2f9ab2155c93ce730",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 3,
+      "hasStructuralAnalysis": true
+    },
+    ".understand-anything/domain-graph.json": {
+      "filePath": ".understand-anything/domain-graph.json",
+      "contentHash": "71f3caf05b0862828ecea4d72328d2e1e62af0b1d2f470cc275fc77bd783c1ab",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 1,
+      "hasStructuralAnalysis": true
+    },
+    ".understand-anything/fingerprints.json": {
+      "filePath": ".understand-anything/fingerprints.json",
+      "contentHash": "8cd25290fe6f868466cfdf479df0d5abe223ff4424f841f436659fb55433f9ee",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 29510,
+      "hasStructuralAnalysis": true
     },
     ".understand-anything/gen-ignore.mjs": {
       "filePath": ".understand-anything/gen-ignore.mjs",
@@ -239,24 +149,93 @@
       "totalLines": 24,
       "hasStructuralAnalysis": true
     },
-    "AGENTS.md": {
-      "filePath": "AGENTS.md",
-      "contentHash": "8901b82023c3984b89e6fbf3977b5df807fe3baa08d2d7ac07fa2d57a063e430",
+    ".understand-anything/knowledge-graph.json": {
+      "filePath": ".understand-anything/knowledge-graph.json",
+      "contentHash": "6c2129b56a3f917440f364a8c46e1bb694d33d06dbe22681a0e7c095b072d6b6",
       "functions": [],
       "classes": [],
       "imports": [],
       "exports": [],
-      "totalLines": 331,
+      "totalLines": 23631,
       "hasStructuralAnalysis": true
     },
-    "CLAUDE.md": {
-      "filePath": "CLAUDE.md",
-      "contentHash": "5faba7b170feb9db5d7897fc26e8ef5b5f2b19576b80d00a4c879eae7c6e680d",
+    ".understand-anything/meta.json": {
+      "filePath": ".understand-anything/meta.json",
+      "contentHash": "2780218866e62f1eb9e3703a015e5c3b04bc2a2e1731b84aa9971b31ef384f46",
       "functions": [],
       "classes": [],
       "imports": [],
       "exports": [],
-      "totalLines": 2,
+      "totalLines": 6,
+      "hasStructuralAnalysis": true
+    },
+    ".understand-anything/run-dashboard.mjs": {
+      "filePath": ".understand-anything/run-dashboard.mjs",
+      "contentHash": "77f167a25faaa69ae5e5841692b37d7cb9b19ebc322a9aa38600d79013ef3c0b",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 8,
+      "hasStructuralAnalysis": true
+    },
+    ".understand-anything/start-dashboard.ps1": {
+      "filePath": ".understand-anything/start-dashboard.ps1",
+      "contentHash": "b54d21be7d7e351db7a38c3e5277ad0e2f7b6464d9e38a5343e720a85260f551",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 4,
+      "hasStructuralAnalysis": false
+    },
+    ".understand-anything/validate-domain.py": {
+      "filePath": ".understand-anything/validate-domain.py",
+      "contentHash": "91d00fd07373635eb726f2228b7a5d458105d7d40920e91608ae5f530849cae0",
+      "functions": [],
+      "classes": [],
+      "imports": [
+        {
+          "source": "json",
+          "specifiers": [
+            "json"
+          ]
+        },
+        {
+          "source": "os",
+          "specifiers": [
+            "os"
+          ]
+        },
+        {
+          "source": "shutil",
+          "specifiers": [
+            "shutil"
+          ]
+        }
+      ],
+      "exports": [],
+      "totalLines": 71,
+      "hasStructuralAnalysis": true
+    },
+    ".vite/deps/_metadata.json": {
+      "filePath": ".vite/deps/_metadata.json",
+      "contentHash": "15bc0c9f0d5b080a73f25cd326db1232038e12cd359084624e2390a273b57aa5",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 8,
+      "hasStructuralAnalysis": true
+    },
+    ".vite/deps/package.json": {
+      "filePath": ".vite/deps/package.json",
+      "contentHash": "3ca9d4afd21425087cf31893b8f9f63c81b0b8408db5e343ca76e5f8aa26ab9a",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 4,
       "hasStructuralAnalysis": true
     },
     "config.ini.example": {
@@ -288,56 +267,6 @@
       "exports": [],
       "totalLines": 245,
       "hasStructuralAnalysis": true
-    },
-    "docker-compose.podman.yml": {
-      "filePath": "docker-compose.podman.yml",
-      "contentHash": "b652aa4d1d6a36322d166dd432777b9730acb1cb7dcf39ff099183f7843c3684",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 38,
-      "hasStructuralAnalysis": true
-    },
-    "docker-compose.yml": {
-      "filePath": "docker-compose.yml",
-      "contentHash": "d14a15c3051cfdd340c395759de9a371a3944563d817bb06747c33fcb486643e",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 28,
-      "hasStructuralAnalysis": true
-    },
-    "Dockerfile": {
-      "filePath": "Dockerfile",
-      "contentHash": "3dc41d83fb91b46a976500a2c02904c5df37c89921e8289b5410c39bb8da6872",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 111,
-      "hasStructuralAnalysis": true
-    },
-    "Dockerfile.lite": {
-      "filePath": "Dockerfile.lite",
-      "contentHash": "e17c2be0f83255747ad94205e784666634c1f9403c56dc666b408acfb200b61a",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 112,
-      "hasStructuralAnalysis": false
-    },
-    "Dockerfile.postgres": {
-      "filePath": "Dockerfile.postgres",
-      "contentHash": "e17d4916dd71b628c846b0e9cbc4e51bf9537342135b01b247131c2d91e5fd5d",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 44,
-      "hasStructuralAnalysis": false
     },
     "env.docker-compose-full": {
       "filePath": "env.docker-compose-full",
@@ -474,16 +403,6 @@
       "imports": [],
       "exports": [],
       "totalLines": 32,
-      "hasStructuralAnalysis": true
-    },
-    "k8s-deploy/databases/README.md": {
-      "filePath": "k8s-deploy/databases/README.md",
-      "contentHash": "6b325c466eebb23ca4ef2c53d218fd7eb2c47f671a2c1a25d7dbf859576640a8",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 171,
       "hasStructuralAnalysis": true
     },
     "k8s-deploy/databases/redis/values.yaml": {
@@ -633,16 +552,6 @@
       "totalLines": 82,
       "hasStructuralAnalysis": true
     },
-    "k8s-deploy/lightrag/templates/NOTES.txt": {
-      "filePath": "k8s-deploy/lightrag/templates/NOTES.txt",
-      "contentHash": "44374eb7b70b92e854ba8510d5b2c5e5de1a0a365a46c41a277df30f467e5232",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 39,
-      "hasStructuralAnalysis": false
-    },
     "k8s-deploy/lightrag/templates/pvc.yaml": {
       "filePath": "k8s-deploy/lightrag/templates/pvc.yaml",
       "contentHash": "83c0ff86d75420ec097acf85ee06fc4e233d4efbafe679feb39f44d68ee4d79f",
@@ -681,26 +590,6 @@
       "imports": [],
       "exports": [],
       "totalLines": 83,
-      "hasStructuralAnalysis": true
-    },
-    "k8s-deploy/README-zh.md": {
-      "filePath": "k8s-deploy/README-zh.md",
-      "contentHash": "d2dcf4651255deb19445d67feeee3fcff286194b356aa94e240f72232f391f6d",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 192,
-      "hasStructuralAnalysis": true
-    },
-    "k8s-deploy/README.md": {
-      "filePath": "k8s-deploy/README.md",
-      "contentHash": "d41fbe1ae0072ffac52010dd25cc0471200253880b9e29abd960223609cc7495",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 192,
       "hasStructuralAnalysis": true
     },
     "k8s-deploy/uninstall_lightrag_dev.sh": {
@@ -832,16 +721,6 @@
       "totalLines": 37,
       "hasStructuralAnalysis": true
     },
-    "lightrag_webui/index.html": {
-      "filePath": "lightrag_webui/index.html",
-      "contentHash": "4ae7fa0df37cb67eb97670545760f3507554dfd92244ccb0c49ff7cf5dce8471",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 18,
-      "hasStructuralAnalysis": false
-    },
     "lightrag_webui/package.json": {
       "filePath": "lightrag_webui/package.json",
       "contentHash": "7fa5708b7c3597d5190bd8d90f7dba79896ea7926e4bd397539a1c99541ae7f2",
@@ -850,16 +729,6 @@
       "imports": [],
       "exports": [],
       "totalLines": 113,
-      "hasStructuralAnalysis": true
-    },
-    "lightrag_webui/README.md": {
-      "filePath": "lightrag_webui/README.md",
-      "contentHash": "b7607ea503665391dd7adad832614b4e41226362cddcb91caa6116e9133fc8a7",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 81,
       "hasStructuralAnalysis": true
     },
     "lightrag_webui/src/api/lightrag.test.ts": {
@@ -6615,16 +6484,6 @@
       "totalLines": 65,
       "hasStructuralAnalysis": true
     },
-    "lightrag_webui/src/index.css": {
-      "filePath": "lightrag_webui/src/index.css",
-      "contentHash": "9fef11f351b9443032cb03d71459612ee51155b7a0bc43521c76efdfc5d7c7ad",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 229,
-      "hasStructuralAnalysis": false
-    },
     "lightrag_webui/src/lib/constants.ts": {
       "filePath": "lightrag_webui/src/lib/constants.ts",
       "contentHash": "1fce6976f892104940803dc948e6b5f7b373d8bf2f3f21e187024713bb4deb7c",
@@ -10256,16 +10115,6 @@
       "totalLines": 3,
       "hasStructuralAnalysis": true
     },
-    "lightrag/api/static/swagger-ui/swagger-ui.css": {
-      "filePath": "lightrag/api/static/swagger-ui/swagger-ui.css",
-      "contentHash": "c48f0b295368b78fad0ed0ea7c922d0efd89f7f06927c1e5f4ac866d65bd28f8",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 4,
-      "hasStructuralAnalysis": false
-    },
     "lightrag/api/utils_api.py": {
       "filePath": "lightrag/api/utils_api.py",
       "contentHash": "efa7409e210056044612f6c4f9ec7b8dd1da73f5784072141310921a2092032d",
@@ -11771,16 +11620,6 @@
       "totalLines": 255,
       "hasStructuralAnalysis": true
     },
-    "lightrag/evaluation/README_EVALUASTION_RAGAS.md": {
-      "filePath": "lightrag/evaluation/README_EVALUASTION_RAGAS.md",
-      "contentHash": "bab996cd2f937b3bb386a59654146c616f6bd7e6870f1eab7aa07a76e7cc1cdf",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 497,
-      "hasStructuralAnalysis": true
-    },
     "lightrag/evaluation/sample_dataset.json": {
       "filePath": "lightrag/evaluation/sample_dataset.json",
       "contentHash": "b6f5a1f00ec28f6f21d83c300e3d02f3ef590f4cabe70d2667a6d31d5d24324f",
@@ -11789,66 +11628,6 @@
       "imports": [],
       "exports": [],
       "totalLines": 35,
-      "hasStructuralAnalysis": true
-    },
-    "lightrag/evaluation/sample_documents/01_lightrag_overview.md": {
-      "filePath": "lightrag/evaluation/sample_documents/01_lightrag_overview.md",
-      "contentHash": "cc934815eebeffa38d922b8b6a68731a0f7163ad7f340e1d5df5d0c9215401b6",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 18,
-      "hasStructuralAnalysis": true
-    },
-    "lightrag/evaluation/sample_documents/02_rag_architecture.md": {
-      "filePath": "lightrag/evaluation/sample_documents/02_rag_architecture.md",
-      "contentHash": "4df9ef510ff24466a17e63678601d8f47475aeed6db2629f99390b65264d5fc4",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 22,
-      "hasStructuralAnalysis": true
-    },
-    "lightrag/evaluation/sample_documents/03_lightrag_improvements.md": {
-      "filePath": "lightrag/evaluation/sample_documents/03_lightrag_improvements.md",
-      "contentHash": "c6f716a9f536ead600fc8bf6078d4171ce44c0cb1ca2c0871b0d52e3a3ac4289",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 26,
-      "hasStructuralAnalysis": true
-    },
-    "lightrag/evaluation/sample_documents/04_supported_databases.md": {
-      "filePath": "lightrag/evaluation/sample_documents/04_supported_databases.md",
-      "contentHash": "327ad632df7b5a52a27d20c01e89b150a0202e6fd1b43cf351e7b5a5e0b9ed9f",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 38,
-      "hasStructuralAnalysis": true
-    },
-    "lightrag/evaluation/sample_documents/05_evaluation_and_deployment.md": {
-      "filePath": "lightrag/evaluation/sample_documents/05_evaluation_and_deployment.md",
-      "contentHash": "b7356b908bcd79ad6f1cc7029ffcaf8a31a5b314c857f6e8df2b7af35358ed57",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 42,
-      "hasStructuralAnalysis": true
-    },
-    "lightrag/evaluation/sample_documents/README.md": {
-      "filePath": "lightrag/evaluation/sample_documents/README.md",
-      "contentHash": "26137f6bd625d3942d4f32f0026795645a322ee96cb630a69b3241480cc51c0b",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 22,
       "hasStructuralAnalysis": true
     },
     "lightrag/evaluation/sample_retrieval_oracle.json": {
@@ -12311,14 +12090,25 @@
     },
     "lightrag/kg/faiss_impl.py": {
       "filePath": "lightrag/kg/faiss_impl.py",
-      "contentHash": "6aea8008ea4aef17ab25b9d3316569c79d4f0f6b258a7f121c450c03efc01219",
+      "contentHash": "4d8f4b28bc9e4fbc63e6cd3954bb4d5a773b5d5b7778dfd877e4f2726fb46774",
       "functions": [],
       "classes": [
+        {
+          "name": "_PendingFaissDoc",
+          "methods": [],
+          "properties": [
+            "record",
+            "vector"
+          ],
+          "exported": true,
+          "lineCount": 16
+        },
         {
           "name": "FaissVectorDBStorage",
           "methods": [
             "__post_init__",
             "initialize",
+            "_reload_index_from_disk_locked",
             "_get_index",
             "upsert",
             "query",
@@ -12327,18 +12117,22 @@
             "delete_entity",
             "delete_entity_relation",
             "_find_faiss_id_by_custom_id",
-            "_remove_faiss_ids",
+            "_find_faiss_ids_by_custom_id",
+            "_remove_faiss_ids_locked",
+            "_flush_pending_locked",
             "_save_faiss_index",
             "_load_faiss_index",
             "index_done_callback",
+            "_format_record",
             "get_by_id",
             "get_by_ids",
             "get_vectors_by_ids",
-            "drop"
+            "drop",
+            "finalize"
           ],
           "properties": [],
           "exported": true,
-          "lineCount": 798
+          "lineCount": 1108
         }
       ],
       "imports": [
@@ -12427,9 +12221,10 @@
         }
       ],
       "exports": [
+        "_PendingFaissDoc",
         "FaissVectorDBStorage"
       ],
-      "totalLines": 824,
+      "totalLines": 1153,
       "hasStructuralAnalysis": true
     },
     "lightrag/kg/json_doc_status_impl.py": {
@@ -13279,30 +13074,45 @@
     },
     "lightrag/kg/nano_vector_db_impl.py": {
       "filePath": "lightrag/kg/nano_vector_db_impl.py",
-      "contentHash": "0e02d1b7da1378eea6b8f186b3c191e9fc3b33aa81c1cb19773aa45fd723a903",
+      "contentHash": "3f21432e48ad1daf533236bca9cc9a9e61b8d1010b1529036b3fe1cf599b3556",
       "functions": [],
       "classes": [
+        {
+          "name": "_PendingNanoDoc",
+          "methods": [],
+          "properties": [
+            "record",
+            "vector"
+          ],
+          "exported": true,
+          "lineCount": 15
+        },
         {
           "name": "NanoVectorDBStorage",
           "methods": [
             "__post_init__",
             "initialize",
+            "_reload_client_from_disk_locked",
             "_get_client",
             "upsert",
+            "_flush_pending_locked",
+            "_save_to_disk_locked",
             "query",
             "client_storage",
             "delete",
             "delete_entity",
             "delete_entity_relation",
             "index_done_callback",
+            "_format_record",
             "get_by_id",
             "get_by_ids",
             "get_vectors_by_ids",
-            "drop"
+            "drop",
+            "finalize"
           ],
           "properties": [],
           "exported": true,
-          "lineCount": 589
+          "lineCount": 818
         }
       ],
       "imports": [
@@ -13391,9 +13201,10 @@
         }
       ],
       "exports": [
+        "_PendingNanoDoc",
         "NanoVectorDBStorage"
       ],
-      "totalLines": 616,
+      "totalLines": 863,
       "hasStructuralAnalysis": true
     },
     "lightrag/kg/neo4j_impl.py": {
@@ -13671,7 +13482,7 @@
     },
     "lightrag/kg/opensearch_impl.py": {
       "filePath": "lightrag/kg/opensearch_impl.py",
-      "contentHash": "38dd3545be8c6cbd331e951d058cd9de0eec958110f98202701bc46a51803338",
+      "contentHash": "468dc3cc9c16e8c7b9e890461ae469914d0f0b0b5b243be70186170db8598cfa",
       "functions": [
         {
           "name": "_get_opensearch_env",
@@ -13991,7 +13802,7 @@
             "_index_ready"
           ],
           "exported": true,
-          "lineCount": 799
+          "lineCount": 786
         }
       ],
       "imports": [
@@ -14138,7 +13949,7 @@
         "OpenSearchGraphStorage",
         "OpenSearchVectorDBStorage"
       ],
-      "totalLines": 3900,
+      "totalLines": 3887,
       "hasStructuralAnalysis": true
     },
     "lightrag/kg/postgres_impl.py": {
@@ -18867,7 +18678,7 @@
     },
     "lightrag/operate.py": {
       "filePath": "lightrag/operate.py",
-      "contentHash": "ac9c049f4f99d1ca71bb1c5eefc048e0b1ae6ea8c566eef6429a358768f02f95",
+      "contentHash": "8a2c482ca8ea3c9b6fe3ba2be95aa8a9f213a3d371252b87373f2b4fa9485150",
       "functions": [
         {
           "name": "_get_relationship_vdb_timeout_seconds",
@@ -19313,7 +19124,7 @@
           ],
           "returnType": "tuple[str, dict[str, Any]]",
           "exported": true,
-          "lineCount": 180
+          "lineCount": 181
         },
         {
           "name": "_build_query_context",
@@ -19654,7 +19465,7 @@
         "naive_query",
         "naive_query"
       ],
-      "totalLines": 5793,
+      "totalLines": 5794,
       "hasStructuralAnalysis": true
     },
     "lightrag/parser/__init__.py": {
@@ -24844,26 +24655,6 @@
       "totalLines": 1,
       "hasStructuralAnalysis": true
     },
-    "lightrag/tools/lightrag_visualizer/assets/LICENSE - Geist.txt": {
-      "filePath": "lightrag/tools/lightrag_visualizer/assets/LICENSE - Geist.txt",
-      "contentHash": "dbb04b3625e63512d8242b3cae4d1b2c2955eb7c47bb80d4e468ec3c5a8e5c7b",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 93,
-      "hasStructuralAnalysis": false
-    },
-    "lightrag/tools/lightrag_visualizer/assets/LICENSE - SmileySans.txt": {
-      "filePath": "lightrag/tools/lightrag_visualizer/assets/LICENSE - SmileySans.txt",
-      "contentHash": "d280bf94654bcea54e4d58fafffecd0b283567b208d54bc3f591403129e7d8d2",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 94,
-      "hasStructuralAnalysis": false
-    },
     "lightrag/tools/lightrag_visualizer/assets/place_font_here": {
       "filePath": "lightrag/tools/lightrag_visualizer/assets/place_font_here",
       "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
@@ -25059,36 +24850,6 @@
       ],
       "totalLines": 1222,
       "hasStructuralAnalysis": true
-    },
-    "lightrag/tools/lightrag_visualizer/README-zh.md": {
-      "filePath": "lightrag/tools/lightrag_visualizer/README-zh.md",
-      "contentHash": "d5499cdc25175fda685e2b220124c7b80c2196632446bf5ad2d1d8b601a14813",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 96,
-      "hasStructuralAnalysis": true
-    },
-    "lightrag/tools/lightrag_visualizer/README.md": {
-      "filePath": "lightrag/tools/lightrag_visualizer/README.md",
-      "contentHash": "b9265b4787e42a2138fd685d7615f63e7a41d1814dedd73166a3da8c9bdfa364",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 137,
-      "hasStructuralAnalysis": true
-    },
-    "lightrag/tools/lightrag_visualizer/requirements.txt": {
-      "filePath": "lightrag/tools/lightrag_visualizer/requirements.txt",
-      "contentHash": "3c050c36b7b22b951615a5c9d699ee72c27f5788f52e01096b6eda94ca5bfb6d",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 9,
-      "hasStructuralAnalysis": false
     },
     "lightrag/tools/migrate_llm_cache.py": {
       "filePath": "lightrag/tools/migrate_llm_cache.py",
@@ -25374,26 +25135,6 @@
         "main"
       ],
       "totalLines": 721,
-      "hasStructuralAnalysis": true
-    },
-    "lightrag/tools/README_CLEAN_LLM_QUERY_CACHE.md": {
-      "filePath": "lightrag/tools/README_CLEAN_LLM_QUERY_CACHE.md",
-      "contentHash": "53e6cc7928c13829bd3d411c02ac7d719082160925d0957788bf8968a15dc605",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 667,
-      "hasStructuralAnalysis": true
-    },
-    "lightrag/tools/README_MIGRATE_LLM_CACHE.md": {
-      "filePath": "lightrag/tools/README_MIGRATE_LLM_CACHE.md",
-      "contentHash": "d048626008cf97ed1fcd36aa36a60e05861a8aca18d511f7c02bb69134105449",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 469,
       "hasStructuralAnalysis": true
     },
     "lightrag/types.py": {
@@ -27297,16 +27038,6 @@
       "totalLines": 3908,
       "hasStructuralAnalysis": true
     },
-    "Makefile": {
-      "filePath": "Makefile",
-      "contentHash": "4e999d74923b2c8952471d8a23c7f02ded961b21a3c7df4deca318a6bf54d127",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 100,
-      "hasStructuralAnalysis": true
-    },
     "MANIFEST.in": {
       "filePath": "MANIFEST.in",
       "contentHash": "24e87527116a31b600fe55bc8766f70aa1dee7c6547d781f46531b80984b9e05",
@@ -27327,16 +27058,6 @@
       "totalLines": 223,
       "hasStructuralAnalysis": true
     },
-    "prompts/UserCustomizePrompts.md": {
-      "filePath": "prompts/UserCustomizePrompts.md",
-      "contentHash": "fbfabbbb41e140bbcb1bb756dbbc0cdca38260354d5635c8a89a24d431d59b1e",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 4,
-      "hasStructuralAnalysis": true
-    },
     "pyproject.toml": {
       "filePath": "pyproject.toml",
       "contentHash": "4d74794047dfbee535e17ea25fbbb4a965ac24f0493e8049c78efa75b323b36c",
@@ -27345,26 +27066,6 @@
       "imports": [],
       "exports": [],
       "totalLines": 190,
-      "hasStructuralAnalysis": true
-    },
-    "README-zh.md": {
-      "filePath": "README-zh.md",
-      "contentHash": "6b2e410173bedf1d2d36943d44ee983efe6fbfb2d10dc24dc7bcbef2998b1a20",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 437,
-      "hasStructuralAnalysis": true
-    },
-    "README.md": {
-      "filePath": "README.md",
-      "contentHash": "5d1c8a6d3a9d725380fc45931d3e36fd69acacef22c70f0b1f411b2a4a82979f",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 438,
       "hasStructuralAnalysis": true
     },
     "reproduce/batch_eval.py": {
@@ -27878,36 +27579,6 @@
       ],
       "totalLines": 67,
       "hasStructuralAnalysis": true
-    },
-    "requirements-offline-llm.txt": {
-      "filePath": "requirements-offline-llm.txt",
-      "contentHash": "38b168f388ec83a000d0826ca2efdc7da51cea7866c125c8bf8aa40beefacf80",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 21,
-      "hasStructuralAnalysis": false
-    },
-    "requirements-offline-storage.txt": {
-      "filePath": "requirements-offline-storage.txt",
-      "contentHash": "74f51fe721e00146dcc9fa0c4d2d21bb07794ce84e1b2a4921dacabd256c536d",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 19,
-      "hasStructuralAnalysis": false
-    },
-    "requirements-offline.txt": {
-      "filePath": "requirements-offline.txt",
-      "contentHash": "17ce2aaf3b6b8b0f01e8aea7d1925c636982a4a02e3119f744d53296aeeffced",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 33,
-      "hasStructuralAnalysis": false
     },
     "scripts/regen_native_docx_golden.py": {
       "filePath": "scripts/regen_native_docx_golden.py",
@@ -29477,16 +29148,6 @@
       "imports": [],
       "exports": [],
       "totalLines": 82,
-      "hasStructuralAnalysis": true
-    },
-    "SECURITY.md": {
-      "filePath": "SECURITY.md",
-      "contentHash": "0690db7212f99d887dce1bf4392661afbdcea2cef53f2d1d5c0abb4309e30ea0",
-      "functions": [],
-      "classes": [],
-      "imports": [],
-      "exports": [],
-      "totalLines": 19,
       "hasStructuralAnalysis": true
     },
     "setup.py": {
