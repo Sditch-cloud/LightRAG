@@ -1,0 +1,66 @@
+# .understandignore — patterns for files/dirs to exclude from analysis
+# Syntax: same as .gitignore (globs, # comments, ! negation, trailing / for dirs)
+# Lines below are suggestions — uncomment to activate.
+# Use ! prefix to force-include something excluded by defaults.
+#
+# Built-in defaults (always excluded unless negated):
+#   node_modules/, .git/, dist/, build/, obj/, *.lock, *.min.js, etc.
+#
+# --- From .gitignore (uncomment to exclude) ---
+
+# *.py[cod]
+# *.egg-info/
+# .eggs/
+# *.tgz
+# *.tar.gz
+# *.ini
+# .env
+# .env.backup.*
+# docker-compose.*.yml
+# !docker-compose.podman.yml
+# site/
+# *.log.*
+# *.logfire
+# *.coverage/
+# log/
+# .mypy_cache/
+# .pytest_cache/
+# .ruff_cache/
+# .gradio/
+# .history/
+# temp/
+# .vscode/settings.json
+# local_neo4jWorkDir/
+# neo4jWorkDir/
+# inputs/
+# output/
+# rag_storage/
+# data/
+# prompts/entity_type/
+# lightrag/evaluation/results/
+# .DS_Store
+# TODO.md
+# ignore_this.txt
+# *.ignore.*
+# /dickens*/
+# /book.txt
+# /ag2_demo_workdir/
+# /lightrag/api/webui/
+# /test_*
+# memory-bank
+# .claude/
+# .jules/
+# /parse_output/
+
+# --- Detected directories (uncomment to exclude) ---
+
+tests/
+docs/
+examples/
+# scripts/
+
+# --- Test file patterns (uncomment to exclude) ---
+
+# *.test.*
+# *.spec.*
+# *.snap
